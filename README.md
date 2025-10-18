@@ -155,5 +155,5 @@
 ---
 
 **Tác giả:** Roadmap dành cho người mới bắt đầu muốn trở thành **SOC Automation Engineer**.  
-> Keep tracking progress, update checklist, commit your journey 🚀  
+> Keep tracking progress, update checklist, commit your journey 
 
