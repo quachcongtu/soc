@@ -46,6 +46,7 @@ II.Lộ trình chuyên sâu:
 
 
 2.SYSTEM SECURITY (BẢO MẬT HỆ THỐNG)
+
 `Mục tiêu:` Bảo vệ server, OS, ứng dụng và dữ liệu người dùng.
 
 - `Kiến thức trọng tâm:`
@@ -66,6 +67,7 @@ II.Lộ trình chuyên sâu:
 
 
 3.ETHICAL HACKING / PENETRATION TESTING
+
 `Mục tiêu:` Mô phỏng tấn công để phát hiện lỗ hổng trước hacker thật.
 
 - `Kiến thức trọng tâm:`
@@ -86,6 +88,7 @@ II.Lộ trình chuyên sâu:
 
 
 4.BLUE TEAM / SOC ANALYST
+
 `Mục tiêu:` Giám sát, phát hiện, phân tích và phản ứng với sự cố bảo mật.
 
 - `Kiến thức trọng tâm:`
@@ -106,6 +109,7 @@ II.Lộ trình chuyên sâu:
 
 
 5.CLOUD SECURITY
+
 `Mục tiêu:` Bảo vệ hạ tầng và dữ liệu trên môi trường đám mây (AWS, Azure, GCP).
 
 - `Kiến thức trọng tâm:`
@@ -127,6 +131,7 @@ II.Lộ trình chuyên sâu:
 
 
 6.DEVSECOPS / APPSEC
+
 `Mục tiêu:` Tích hợp bảo mật vào vòng đời phát triển phần mềm và hạ tầng CI/CD.
 
 - `Kiến thức trọng tâm:`
@@ -146,6 +151,7 @@ II.Lộ trình chuyên sâu:
 
 
 7.CLOUD & VIRTUAL INFRASTRUCTURE  storage ( SAN /NAS  +  cloud ) 
+
 `Mục tiêu:` Thiết kế và vận hành hạ tầng ảo hóa và hybrid cloud an toàn.
 
 - `Kiến thức trọng tâm:`
